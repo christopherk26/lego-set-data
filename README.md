@@ -2,6 +2,8 @@ I wanted to use my python and data science skills to look for trends in LEGO set
 
 I am using https://www.kaggle.com/datasets/mrpantherson/lego-sets, a data set on kaggle about LEGO sets from rebrickable, (which is a LEGO website database that tracks the prices of LEGO sets on the market).
 
+You can click images to make them bigger, so that you can see them in more detail.
+
 Enjoy.
 
 ![image](https://github.com/christopherk26/PandasProject/assets/59146391/94e8e350-7a9c-4835-8167-bf4d65e70b03)
